@@ -31,3 +31,8 @@ bootloader.bin 0x1000
 partitions.bin 0x8000
 nesemu.bin 0x10000
 (游戏).nes 0x100000
+
+
+# download下载
+
+[flash download tools](https://www.espressif.com/sites/default/files/tools/flash_download_tools_v3.6.7.zip)
